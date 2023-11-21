@@ -8,11 +8,11 @@ public class TC4test {
 	@Test
 	public void m1()
 	{
-		Reporter.log("t4 started",true);
+		Reporter.log("haiiii harish",true);
 	}
 	
 	public void m2()
 	{
-		Reporter.log("t4 m2 working",true);
+		Reporter.log("bayyyy harish",true);
 	}
 }
