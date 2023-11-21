@@ -10,7 +10,7 @@ public class TC4test {
 	{
 		Reporter.log("haiiii harish",true);
 	}
-	
+	@Test
 	public void m2()
 	{
 		Reporter.log("bayyyy harish",true);
