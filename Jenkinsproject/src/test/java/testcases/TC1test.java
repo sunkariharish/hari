@@ -15,5 +15,10 @@ public class TC1test {
 	{
 		Reporter.log("tc1 started",true);
 	}
+	@Test
+	public void m1()
+	{
+		Reporter.log("m1 is working",true);
+	}
 
 }
