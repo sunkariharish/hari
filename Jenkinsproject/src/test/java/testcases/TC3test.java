@@ -14,7 +14,7 @@ public class TC3test {
 	{
 		Reporter.log("tc2 started",true);
 	}
-
+    @Test
 	public void t4()
 	{
 		Reporter.log("tc3 started",true);
